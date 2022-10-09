@@ -66,7 +66,7 @@
 
 <!--  github stats  -->
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsaribasr&show_icons=true&locale=en" alt="hsaribas" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsaribas&show_icons=true&locale=en" alt="hsaribas" />
 </p>
 
 <!-- streak stats  -->
